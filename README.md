@@ -1,0 +1,2 @@
+# shopSmooth
+Conceptualisation phase
